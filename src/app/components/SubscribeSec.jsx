@@ -12,7 +12,7 @@ function SubscribeSec() {
         <p>
           Experience the synergy of your favorite tools working seamlessly{" "}
           <br />
-          together, all powered by Horizon's cutting-edge AI analytics.
+          {`together, all powered by Horizon's cutting-edge AI analytics.`}
         </p>
       </div>
       <div className="flex justify-center gap-4 w-[50%] ">

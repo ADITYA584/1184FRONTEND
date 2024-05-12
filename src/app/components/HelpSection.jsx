@@ -19,7 +19,7 @@ function HelpSection() {
           Need Help?
         </h1>
         <p>
-          Don't worry, we got you. Here are some answers for
+          {`Don't worry, we got you. Here are some answers for`}
           <br /> your questions.
         </p>
       </div>

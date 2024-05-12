@@ -25,7 +25,7 @@ function PlansCard(props) {
       <div>
         <ul className="flex flex-col gap-4  text-textHighlight">
           {props.feature.map((item, index) => (
-            <li className="flex gap-4">
+            <li key={index} className="flex gap-4">
               <ArrowForward />
               <p className="text-primaryColor">{item}</p>
             </li>

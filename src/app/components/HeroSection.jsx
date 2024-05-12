@@ -29,7 +29,7 @@ function HeroSection() {
       </div>
       <div className="flex justify-end">
         <div className=" p-2 rounded-3xl  bg-HeadingColor w-[550px]">
-          <Image src={HeroImage}></Image>
+          <Image src={HeroImage} alt="HeroImage"></Image>
         </div>
       </div>
     </div>
